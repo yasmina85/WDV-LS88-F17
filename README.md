@@ -1,8 +1,9 @@
-# L&S88: Course Name
+# L&S88: Web Data Visualization
 
 Fall 2017  
-Instructor: Name  
-Email: instructor@berkeley.edu  
+CCN: 46820
+Instructor: Yasmin AlNoamany  
+Email: yasminal@berkeley.ed 
 Lecture: Monday, 4-5pm in 101 Soda  
 
 ## Course Description
