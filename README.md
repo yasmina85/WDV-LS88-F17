@@ -3,7 +3,7 @@
 Fall 2017  
 CCN: 46820
 Instructor: Yasmin AlNoamany  
-Email: yasminal@berkeley.ed 
+Email: yasminal@berkeley.edu
 Lecture: Monday, 4-5pm in 101 Soda  
 
 ## Course Description
