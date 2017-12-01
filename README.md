@@ -1,1 +1,30 @@
-# WDV-LS88-F17
+L&S88: Course Name
+
+Fall 2017
+Instructor: Name
+Email: instructor@berkeley.edu
+Lecture: Monday, 4-5pm in 101 Soda
+
+Course Description
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus quam, hendrerit id purus et, maximus auctor purus. Ut sed convallis risus. Fusce at ultricies nibh. Vivamus vestibulum, lacus vitae hendrerit dignissim, urna nunc iaculis lectus, vel sagittis urna lorem porttitor nunc. Donec ullamcorper eleifend nisl sit amet iaculis. Morbi at ultrices enim. Morbi fringilla finibus sapien quis imperdiet. Duis faucibus massa et sem consectetur commodo. Mauris quis ultrices dui.
+
+Calendar
+
+Week	Topic	Readings	Lab	Homework
+1	Topic	Link to Reading	Link to Lab	Link to Homework
+2	Topic	Link to Reading	Link to Lab	Link to Homework
+3	Topic	Link to Reading	Link to Lab	Link to Homework
+4	Topic	Link to Reading	Link to Lab	Link to Homework
+5	Topic	Link to Reading	Link to Lab	Link to Homework
+6	Topic	Link to Reading	Link to Lab	Link to Homework
+7	Topic	Link to Reading	Link to Lab	Link to Homework
+8	Topic	Link to Reading	Link to Lab	Link to Homework
+9	Topic	Link to Reading	Link to Lab	Link to Homework
+Course Policies
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus quam, hendrerit id purus et, maximus auctor purus. Ut sed convallis risus. Fusce at ultricies nibh. Vivamus vestibulum, lacus vitae hendrerit dignissim, urna nunc iaculis lectus, vel sagittis urna lorem porttitor nunc. Donec ullamcorper eleifend nisl sit amet iaculis. Morbi at ultrices enim. Morbi fringilla finibus sapien quis imperdiet. Duis faucibus massa et sem consectetur commodo. Mauris quis ultrices dui. Nunc fringilla, magna in sollicitudin rhoncus, leo neque porta tellus, ut accumsan augue urna vitae neque. Nam at convallis ligula, vitae consequat dolor. Maecenas sed dolor nec sapien hendrerit tristique sit amet a turpis. In hac habitasse platea dictumst. Etiam ut tempus mauris. Praesent consequat massa non suscipit tincidunt.
+
+Getting Help
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus quam, hendrerit id purus et, maximus auctor purus. Ut sed convallis risus. Fusce at ultricies nibh. Vivamus vestibulum, lacus vitae hendrerit dignissim, urna nunc iaculis lectus, vel sagittis urna lorem porttitor nunc. Donec ullamcorper eleifend nisl sit amet iaculis. Morbi at ultrices enim. Morbi fringilla finibus sapien quis imperdiet. Duis faucibus massa et sem consectetur commodo. Mauris quis ultrices dui. Nunc fringilla, magna in sollicitudin rhoncus, leo neque porta tellus, ut accumsan augue urna vitae neque. Nam at convallis ligula, vitae consequat dolor. Maecenas sed dolor nec sapien hendrerit tristique sit amet a turpis. In hac habitasse platea dictumst. Etiam ut tempus mauris. Praesent consequat massa non suscipit tincidunt.
