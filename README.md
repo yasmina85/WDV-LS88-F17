@@ -34,11 +34,11 @@ October 24 | [Albert Cairo's Talk](https://www.youtube.com/watch?v=tgbJVmMQZfk&f
 2. Class activity 15%
 3. Assignments 40%
 4. Semester project 35%
-  * Milestone 1 (dataset and task definitions) - 4 points
-  * Milestone 2 (project proposal) - 7 points
-  * Milestone 3 (project status update) - 4 points
-  * Demo and Presentation - 10 points
-  * Paper - 10 points
+   * Milestone 1 (dataset and task definitions) - 4 points
+   * Milestone 2 (project proposal) - 7 points
+   * Milestone 3 (project status update) - 4 points
+   * Demo and Presentation - 10 points
+   * Paper - 10 points
 5. Bonus: 8% 
 
 The grading scale is as follows:
