@@ -28,12 +28,12 @@ October 17 | Project Proposals<br> [Social Networks](https://bcourses.berkeley.e
 October 24 | [Albert Cairo's Talk](https://www.youtube.com/watch?v=tgbJVmMQZfk&feature=youtu.be) |  |  | [Assignment 5 (Due Oct 31](https://bcourses.berkeley.edu/courses/1465668/assignments/7841211)
 
 
-Grading
+## Grading
 
-1.Attendance and Participation 10%
-2.Class activity 15%
-3.Assignments 40%
-4.Semester project 35%
+1. Attendance and Participation 10%
+2. Class activity 15%
+3. Assignments 40%
+4. Semester project 35%
   * Milestone 1 (dataset and task definitions) - 4 points
   * Milestone 2 (project proposal) - 7 points
   * Milestone 3 (project status update) - 4 points
