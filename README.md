@@ -27,10 +27,52 @@ October 10 | Visualizing Text Documents Slides 30-70 | | [Tag Cloud and Wordle s
 October 17 | Project Proposals<br> [Social Networks](https://bcourses.berkeley.edu/courses/1465668/files/71909317/download?verifier=WWTEZ89jQuFGDhkgZOpfS6ZTxTTecQZxGBqtUrD8&wrap=1) | [All about social network analysis- Mining the social web](http://www.webpages.uidaho.edu/~stevel/504/Mining-the-Social-Web-2nd-Edition.pdf)<br> [Introduction to Network Analysis and Visualization by Martin Grandjean](http://www.martingrandjean.ch/star-wars-data-visualization/)<br> [Lectures by Jennifer Goldbeck, the author of Analysing the Social Web book](http://analyzingthesocialweb.com/course-materials.shtml) | [Network degree](https://docs.google.com/a/berkeley.edu/document/d/1kQg1zcgSlsMp9H9TGfS9UXDplZT0EenCDWQ-CHtyirA/edit?usp=sharing) | [PM2 Due](https://bcourses.berkeley.edu/courses/1465668/assignments/7839495)
 October 24 | [Albert Cairo's Talk](https://www.youtube.com/watch?v=tgbJVmMQZfk&feature=youtu.be) |  |  | [Assignment 5 (Due Oct 31](https://bcourses.berkeley.edu/courses/1465668/assignments/7841211)
 
-## Course Policies
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus quam, hendrerit id purus et, maximus auctor purus. Ut sed convallis risus. Fusce at ultricies nibh. Vivamus vestibulum, lacus vitae hendrerit dignissim, urna nunc iaculis lectus, vel sagittis urna lorem porttitor nunc. Donec ullamcorper eleifend nisl sit amet iaculis. Morbi at ultrices enim. Morbi fringilla finibus sapien quis imperdiet. Duis faucibus massa et sem consectetur commodo. Mauris quis ultrices dui. Nunc fringilla, magna in sollicitudin rhoncus, leo neque porta tellus, ut accumsan augue urna vitae neque. Nam at convallis ligula, vitae consequat dolor. Maecenas sed dolor nec sapien hendrerit tristique sit amet a turpis. In hac habitasse platea dictumst. Etiam ut tempus mauris. Praesent consequat massa non suscipit tincidunt.
+Grading
 
-## Getting Help
+1.Attendance and Participation 10%
+2.Class activity 15%
+3.Assignments 40%
+4.Semester project 35%
+  * Milestone 1 (dataset and task definitions) - 4 points
+  * Milestone 2 (project proposal) - 7 points
+  * Milestone 3 (project status update) - 4 points
+  * Demo and Presentation - 10 points
+  * Paper - 10 points
+5. Bonus: 8% 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus quam, hendrerit id purus et, maximus auctor purus. Ut sed convallis risus. Fusce at ultricies nibh. Vivamus vestibulum, lacus vitae hendrerit dignissim, urna nunc iaculis lectus, vel sagittis urna lorem porttitor nunc. Donec ullamcorper eleifend nisl sit amet iaculis. Morbi at ultrices enim. Morbi fringilla finibus sapien quis imperdiet. Duis faucibus massa et sem consectetur commodo. Mauris quis ultrices dui. Nunc fringilla, magna in sollicitudin rhoncus, leo neque porta tellus, ut accumsan augue urna vitae neque. Nam at convallis ligula, vitae consequat dolor. Maecenas sed dolor nec sapien hendrerit tristique sit amet a turpis. In hac habitasse platea dictumst. Etiam ut tempus mauris. Praesent consequat massa non suscipit tincidunt.
+The grading scale is as follows:
+
+100-92 = A
+
+91-90 = A-
+
+89-88 = B+
+
+87-82 = B
+
+81-80 = B-
+
+etc.
+
+
+All grades will be posted on bCourses. 
+
+
+## Late policy:
+Late assignments lose 1 points for every 24 hours they are late. Students should contact the instructor if they have an excuse. No assignment will be accepted more than 7 days late.
+
+## Attendance:
+Attendance is required for class participation and discussion. Contact instructor prior to the class if you have a reason for the absence. 
+
+## Participation
+Participation will in the form of the discussion in the class and/or questions or comments on required readings of the previous week. There will be a discussion forum for each week readings on bCourses. Students are supposed to submit their comments/questions on readings as a reply to the discussion.
+
+## Collaboration and Academic Honesty
+We encourage collaboration and working in teams. However, homework assignments should be completed independently. You can discuss assignments with others with mentioning that at the bottom of your assignment. We will be following the EECS departmental policy on Academic Honesty, so be sure you are familiar with it.
+
+## Seeking Help:
+If you have questions, first check the course Web site. Feel free to ask in the class, or post your question on bCourses. There will be office hours on Tuesdays, from 3:00-4:00 pm. If students can not make it to the office hours, they can schedule an appointment by email: yasminal@berkeley.edu.
+
+## Disability accommodations:
+If you experience a disability which will impact your ability to access any aspect of the class, please contact me and check out the university policy of accommodating special needs from here: http://www.dsp.berkeley.edu/accommodationpolicy
