@@ -46,21 +46,7 @@ December 5 | Course wrap-up and evaluation |  |  |
    * Paper - 10 points
 5. Bonus: 8% 
 
-The grading scale is as follows:
-
-100-92 = A
-
-91-90 = A-
-
-89-88 = B+
-
-87-82 = B
-
-81-80 = B-
-
-etc.
-
-
+We will follow the default grade scale at UCB.
 All grades will be posted on bCourses. 
 
 
